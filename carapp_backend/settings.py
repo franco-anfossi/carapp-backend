@@ -149,7 +149,7 @@ if not DEBUG:
 
 # CORS settings
 CORS_ALLOW_ORIGINS = [
-    "https://localhost:5173",
+    "http://localhost:5173/",
 ]
 
 REST_FRAMEWORK = {
